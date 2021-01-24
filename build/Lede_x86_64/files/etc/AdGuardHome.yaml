@@ -86,8 +86,8 @@ filters:
   url: https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
   name: adgk手机去广告规则
   id: 139789121
-- enabled: false
-  url: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+- enabled: true
+  url: https://anti-ad.net/easylist.txt
   name: anti-AD命中率最高列表
   id: 139789122
 - enabled: false
@@ -144,7 +144,7 @@ filters:
   id: 139789182
 - enabled: true
   url: https://fanboy.co.nz/r/fanboy-ultimate.txt
-  name: fan
+  name: fanboy
   id: 1609312482
 - enabled: true
   url: https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
