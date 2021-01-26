@@ -169,6 +169,7 @@ user_rules:
 - '||static.doubleclick.net^$domain=youtube.com'
 - '||youtube.com/get_midroll_'
 - '@@||pss.alicdn.com^$important'
+- '@@||hub5pn.wap.sandai.net^$important'
 dhcp:
   enabled: false
   interface_name: ""
